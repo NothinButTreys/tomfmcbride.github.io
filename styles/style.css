@@ -31,6 +31,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	background-color: #eeeeee;
 }
 ol, ul {
 	list-style: none;
