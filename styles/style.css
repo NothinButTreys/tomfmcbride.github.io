@@ -167,6 +167,9 @@ footer nav ul li a:hover {
 		float: none;
 		padding: 0;
 	}
+	.main h1 {
+		text-align: center;
+	}
 }
 
 
